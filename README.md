@@ -17,4 +17,5 @@ Once the simulation is finished (consider a number of simulations of energyPLAN 
 
 ## How to cite EPLANoptMAC ##
 If you use **EPLANoptMAC** for your research, we would appreciate it if you would cite the following paper:
-* Prina MG, Fornaroli FC, Moser D, Manzolini G, Sparber W. Optimization method to obtain marginal abatement cost-curve through EnergyPLAN software. Smart Energy 2021:100002. doi:10.1016/j.segy.2021.100002.
+* Prina MG, Fornaroli FC, Moser D, Manzolini G, Sparber W. Optimization method to obtain marginal abatement cost-curve through EnergyPLAN software. Smart Energy 2021:100002. doi:10.1016/j.segy.2021.100002. https://www.sciencedirect.com/science/article/pii/S2666955221000022?via%3Dihub
+
