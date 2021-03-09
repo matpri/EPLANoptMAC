@@ -21,7 +21,10 @@ a) **MAC**. This sheet contains the winning decision variables for each step and
 b) **Cost effectiveness trends**. This sheet contains the values of the Cost effectiveness or Cost of Carbon Abatement (CCA) of each of the decision variables at each step. 
 c) **CO2 trends**. This sheet contains the potential abatement of the decision variables at each step.
 d) **Output trends**. This sheet contains the outputs of the solution implementing the winning decision variable. the outputs are defined in the Input.xlsx file and described in 3).
+
+By running the MAC_plot.py file is possible to obtain the following plot (MAC.png):
 ![](MAC.png)
+It needs to be mention that this example it's just to show the results that it is possible to obtain with this methodology. The results in the above graph are consequence of the costs implemented in DK2020_2018edition_cost update.txt that have not been modified or checked. 
 
 ## How to cite EPLANoptMAC ##
 If you use **EPLANoptMAC** for your research, we would appreciate it if you would cite the following paper:
