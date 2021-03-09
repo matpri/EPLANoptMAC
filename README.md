@@ -11,3 +11,10 @@ In the excel file called Input.xlsx you can find and set the following input of 
 1) Decision variables. In this Sheet the decision variable are defined with labels, EPLAN label, Max potential and Additional step. The labels can be chosen by the user. The EPLAN label is the EnergyPLAN label that can be found in the DK2020_2018edition_cost update.txt regarding the related decision variable (for example for wind power in this case is 'input_RES1_capacity'). The Max potential is the maximum potential or upper bound of the decision variable for the expansion capacity opzimisation (in this example the are invented but reasonable numbers. However, a proper evaluation of this potential should be included in the analysis). The Additional step is the incremental value (in terms of installed power, capacity, additional share, etc.) of each decision variable on which is implemented the expansion capacity optimisation. 
 2) Paths and steps. In this sheet the user has to define the path to the EnergyPLAN folder, the path to the input file (the ANSI version within the input_folder), the path to the output folder (that can also coincide with the input_folder) and the number of steps. The maximum number of steps defines the number of iterations resulting in the number of discreet elements in the MAC curve.
 3) In this sheet is possible to list other outputs that the user want to save from the EnergyPLAN output. These must have been defined with the key that is possible to find in the EnergyPLAN output file. For example the 'RES share of PES'. 
+
+It is now possible to run the main.py file. in the libeplan.py file there are all the functions used to write input, execute EnergyPLAN and read output.
+Once the simulation is finished (consider a number of simulations of energyPLAN equal to **Number of decision variables x Number of steps**, each simulation of EnergyPLAN can take 1-10 seconds depending on your machine). 
+
+## How to cite EPLANoptMAC ##
+If you use **EPLANoptMAC** for your research, we would appreciate it if you would cite the following paper:
+*fdgdf
