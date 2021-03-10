@@ -24,6 +24,7 @@ d) **Output trends**. This sheet contains the outputs of the solution implementi
 
 By running the MAC_plot.py file is possible to obtain the following plot (MAC.png):
 <img src="MAC.png" width=70% height=70%>
+
 It needs to be mention that this example it's just to show the results that it is possible to obtain with this methodology. The results in the above graph are consequence of the costs implemented in DK2020_2018edition_cost update.txt that have not been modified or checked. 
 
 ## How to cite EPLANoptMAC ##
