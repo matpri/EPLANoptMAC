@@ -33,5 +33,10 @@ If you use **EPLANoptMAC** for your research, we would appreciate it if you woul
 ## Video to explain the methodology ##
 This video has been recorded within the [EMP-E 2020](http://www.energymodellingplatform.eu/) conference:
 
+![Video](https://user-images.githubusercontent.com/28621794/110605578-8e219400-8189-11eb-9179-a14b36ce6f89.JPG)
+
+<img src="https://www.youtube.com/watch?v=0jXJhxtK_FY&t=3s" width="100" height="100">
+
+![Video](<img src="https://www.youtube.com/watch?v=0jXJhxtK_FY&t=3s" width="100" height="100">)
 
 [![Methodology](Video.JPG)](https://www.youtube.com/watch?v=0jXJhxtK_FY&t=3s){:height="50%" width="50%"}
