@@ -18,7 +18,7 @@ Once the simulation is finished (consider a number of simulations of energyPLAN 
 ## Results ##
 Once the simulation is finished the MAC.xlsx is produced. It has 4 sheets:
 a) **MAC**. This sheet contains the winning decision variables for each step and all the info to plot the MAC curve.
-b) **Cost effectiveness trends**. This sheet contains the values of the Cost effectiveness or Cost of Carbon Abatement (CCA) of each of the decision variables at each step. 
+b) **Cost effectiveness trends**. This sheet contains the values of the Cost effectiveness or Cost of CO2 Abatement (CCA) of each of the decision variables at each step. 
 c) **CO2 trends**. This sheet contains the potential abatement of the decision variables at each step.
 d) **Output trends**. This sheet contains the outputs of the solution implementing the winning decision variable. the outputs are defined in the Input.xlsx file and described in 3).
 
