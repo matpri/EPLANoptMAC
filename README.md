@@ -27,7 +27,7 @@ By running the MAC_plot.py file is possible to obtain the following plot (MAC.pn
 It needs to be mention that this example it's just to show the results that it is possible to obtain with this methodology. The results in the above graph are consequence of the costs implemented in DK2020_2018edition_cost update.txt that have not been modified or checked. 
 
 ## How to cite EPLANoptMAC ##
-If you use **EPLANoptMAC** for your research, we would appreciate it if you would cite the following paper:
+If you use **EPLANoptMAC** for your research, we would appreciate it if you would cite the following paper (open access):
 * Prina MG, Fornaroli FC, Moser D, Manzolini G, Sparber W. Optimization method to obtain marginal abatement cost-curve through EnergyPLAN software. Smart Energy 2021:100002. doi:10.1016/j.segy.2021.100002. https://www.sciencedirect.com/science/article/pii/S2666955221000022?via%3Dihub
 
 ## Video to explain the methodology ##
