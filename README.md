@@ -40,4 +40,3 @@ This video has been recorded within the [EMP-E 2020](http://www.energymodellingp
 <a href="https://www.youtube.com/watch?v=0jXJhxtK_FY&t=3s" target="_blank">
  <img src="Video.JPG" alt="Watch the video" width=70% height=70% border="10" />
 </a>
-
