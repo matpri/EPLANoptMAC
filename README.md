@@ -34,6 +34,6 @@ If you use **EPLANoptMAC** for your research, we would appreciate it if you woul
 This video has been recorded within the [EMP-E 2020](http://www.energymodellingplatform.eu/) conference:
 
 <a href="https://www.youtube.com/watch?v=0jXJhxtK_FY&t=3s" target="_blank">
- <img src="Video.JPG" alt="Watch the video" width=50% height=50% border="10" />
+ <img src="Video.JPG" alt="Watch the video" width=70% height=70% border="10" />
 </a>
 
