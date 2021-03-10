@@ -33,13 +33,13 @@ If you use **EPLANoptMAC** for your research, we would appreciate it if you woul
 ## Video to explain the methodology ##
 This video has been recorded within the [EMP-E 2020](http://www.energymodellingplatform.eu/) conference:
 
-```{r embed2, out.extra='style="border: none;"', out.width='99%', fig.cap="Embedded YouTube video", echo = FALSE}
-knitr::include_url('https://www.youtube.com/embed/0jXJhxtK_FY')
-```
+<a href="https://www.youtube.com/watch?v=0jXJhxtK_FY&t=3s" target="_blank">
+ <img src="Video.JPG" alt="Watch the video" width="240" height="180" border="10" />
+</a>
 
 <img src="Video.JPG" href="https://www.youtube.com/watch?v=0jXJhxtK_FY&t=3s" width=50% height=50%>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0jXJhxtK_FY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=0jXJhxtK_FY&t=3s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [![Methodology](Video.JPG)](https://www.youtube.com/watch?v=0jXJhxtK_FY&t=3s)
 
