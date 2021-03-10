@@ -37,10 +37,3 @@ This video has been recorded within the [EMP-E 2020](http://www.energymodellingp
  <img src="Video.JPG" alt="Watch the video" width=50% height=50% border="10" />
 </a>
 
-<img src="Video.JPG" href="https://www.youtube.com/watch?v=0jXJhxtK_FY&t=3s" width=50% height=50%>
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=0jXJhxtK_FY&t=3s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[![Methodology](Video.JPG)](https://www.youtube.com/watch?v=0jXJhxtK_FY&t=3s)
-
-[![Methodology](Video.JPG)](https://www.youtube.com/watch?v=0jXJhxtK_FY&t=3s)
