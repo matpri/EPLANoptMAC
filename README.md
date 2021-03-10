@@ -3,7 +3,7 @@ EPLANoptMAC allows the creation of the Marginal Abatement Cost (MAC) curve based
 ![](MAC.gif)
 
 ## Requirements ##
-- EnergyPLAN version >=15.1 (to dowload the software developed by Aalborg University go to [EnergyPLAN website](https://www.energyplan.eu/))
+- EnergyPLAN version >=15.1 (to download the software developed by Aalborg University go to [EnergyPLAN website](https://www.energyplan.eu/))
 
 ## How to reproduce the example ##
 The example presented in this repository is based on the Scenario DK2020_2018edition_cost update.txt provided with the download of the EnergyPLAN software. This file is saved in the input_folder together its ANSI version. To produce the ANSI version needed by the code, you just need to follow these simple instructions: i) Open the DK2020_2018edition_cost update.txt file, ii) File, Save as..., iii) on the bottom change the encoding from Unicode to ANSI, iv) change the name of the file in order to remember that it is the ANSI version and click on Save. This is just to let you know the steps you have to go through if you want to change the EnergyPLAN input file. In the folder you can already find the ANSI version for the considered example: DK2020_2018edition_cost update_ANSI.txt
