@@ -23,6 +23,7 @@ c) **CO2 trends**. This sheet contains the potential abatement of the decision v
 d) **Output trends**. This sheet contains the outputs of the solution implementing the winning decision variable. the outputs are defined in the Input.xlsx file and described in 3).
 
 By running the MAC_plot.py file is possible to obtain the following plot (MAC.png):
+<img src="MAC.png" width=70% height=70%>
 ![](MAC.png)
 It needs to be mention that this example it's just to show the results that it is possible to obtain with this methodology. The results in the above graph are consequence of the costs implemented in DK2020_2018edition_cost update.txt that have not been modified or checked. 
 
@@ -34,6 +35,8 @@ If you use **EPLANoptMAC** for your research, we would appreciate it if you woul
 This video has been recorded within the [EMP-E 2020](http://www.energymodellingplatform.eu/) conference:
 
 <img src="Video.JPG" href="https://www.youtube.com/watch?v=0jXJhxtK_FY&t=3s" width=50% height=50%>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0jXJhxtK_FY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [![Methodology](Video.JPG)](https://www.youtube.com/watch?v=0jXJhxtK_FY&t=3s)
 
