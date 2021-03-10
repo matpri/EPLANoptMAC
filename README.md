@@ -1,5 +1,5 @@
 # EPLANoptMAC #
-EPLANoptMAC allows the creation of the Marginal Abatement Cost (MAC) curve based on the EnergyPLAN software and by means of an optimization process. https://www.youtube.com/watch?v=0jXJhxtK_FY&t=3s
+EPLANoptMAC allows the creation of the Marginal Abatement Cost (MAC) curve based on the EnergyPLAN software and by means of an optimization process. 
 ![](MAC.gif)
 
 ## Requirements ##
@@ -30,3 +30,5 @@ It needs to be mention that this example it's just to show the results that it i
 If you use **EPLANoptMAC** for your research, we would appreciate it if you would cite the following paper:
 * Prina MG, Fornaroli FC, Moser D, Manzolini G, Sparber W. Optimization method to obtain marginal abatement cost-curve through EnergyPLAN software. Smart Energy 2021:100002. doi:10.1016/j.segy.2021.100002. https://www.sciencedirect.com/science/article/pii/S2666955221000022?via%3Dihub
 
+## Video to explain the methodology ##
+[![Methodology]()](https://www.youtube.com/watch?v=0jXJhxtK_FY&t=3s)
